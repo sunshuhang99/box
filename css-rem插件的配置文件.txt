@@ -1,0 +1,48 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "editor.renderIndentGuides": false,
+    "workbench.colorTheme": "Code Blue",
+    "breadcrumbs.enabled": true,
+    "cSpell.userWords": [
+        "bind",
+        "message",
+        "more",
+        "v"
+    ],
+    "search.followSymlinks": false,
+    "files.associations": {
+        "*.jsp": "json",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+   // css转换rem工具
+// 默认大小
+"cssrem.rootFontSize":16,
+// 小数点后位数
+"cssrem.fixedDigits":6,
+// 除0开头的前缀
+"cssrem.autoRemovePrefixZero":true
+
+}
